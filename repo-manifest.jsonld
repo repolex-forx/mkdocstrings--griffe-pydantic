@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-pydantic/commit/f9fb33d0d2b99d87cff05df2b411298add26bb5a",
       "git:hexsha": "f9fb33d0d2b99d87cff05df2b411298add26bb5a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.3.2"
     },
     {
